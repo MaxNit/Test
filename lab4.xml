@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='lab4.xsl'?>
+<electric>
+        <catalog>
+            <type>Washmachine</type>
+            <brand>Bosch</brand>
+            <catal>
+                <product>
+                    <name>Superpower</name>
+                    <size>big</size>
+                    <price currency="dol.">131</price>
+
+                </product>
+                <product>
+                    <name>Dope777</name>
+                    <size>medium</size>
+                    <price currency="dol.">222</price>
+                </product>
+            </catal>
+        </catalog>
+
+    <catalog>
+        <type>Washmachine</type>
+        <brand>Samsung</brand>
+        <catal>
+            <product>
+                <name>Space</name>
+                <size>big</size>
+                <price currency="dol.">111</price>
+            </product>
+            <product>
+                <name>Galaxy</name>
+                <size>small</size>
+                <price currency="dol.">211</price>
+            </product>
+        </catal>
+    </catalog>
+
+<catalog>
+        <type>Oven</type>
+        <brand>Bosch</brand>
+        <catal>
+            <product>
+                <name>MultiBaker</name>
+                <size>big</size>
+                <price currency="dol.">777</price>
+            </product>
+            <product>
+                <name>Koltan</name>
+                <size>small</size>
+                <price currency="dol.">515</price>
+            </product>
+            <product>
+                <name>G-56</name>
+                <size>medium</size>
+                <price currency="dol.">111</price>
+            </product>
+        </catal>
+    </catalog>
+
+
+</electric>
